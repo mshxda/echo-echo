@@ -705,6 +705,41 @@ body {
     left: 80%;
     width: 27%;
 }
+.postcard5 {
+    position: absolute;
+    z-index: 3;
+    top: 315vw;
+    left: 1%;
+    width: 22%;
+}
+.postcard6 {
+    position: absolute;
+    z-index: 3;
+    top: 307vw;
+    left: 20%;
+    width: 12%;
+}
+.postcard7 {
+    position: absolute;
+    z-index: 3;
+    top: 316vw;
+    left: 29%;
+    width: 21%;
+}
+.postcard8 {
+    position: absolute;
+    z-index: 3;
+    top: 319vw;
+    left: 52%;
+    width: 33%;
+}
+.postcard9 {
+    position: absolute;
+    z-index: 1;
+    top: 313vw;
+    left: 80%;
+    width: 17%;
+}
 
 .card-container {
     position: absolute;
@@ -764,41 +799,7 @@ body {
     height: 100%;
     border: 1px solid black;
 }
-.postcard5 {
-    position: absolute;
-    z-index: 3;
-    top: 315vw;
-    left: 1%;
-    width: 22%;
-}
-.postcard6 {
-    position: absolute;
-    z-index: 3;
-    top: 307vw;
-    left: 20%;
-    width: 12%;
-}
-.postcard7 {
-    position: absolute;
-    z-index: 3;
-    top: 316vw;
-    left: 29%;
-    width: 21%;
-}
-.postcard8 {
-    position: absolute;
-    z-index: 3;
-    top: 319vw;
-    left: 52%;
-    width: 33%;
-}
-.postcard9 {
-    position: absolute;
-    z-index: 1;
-    top: 313vw;
-    left: 80%;
-    width: 17%;
-}
+
 .send-25 {
     position: absolute;
     z-index: 3;
