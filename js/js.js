@@ -50,12 +50,6 @@ img3.addEventListener("click", function () {
     img3.src = currentSrc.includes("postcard3.png") ? "./img/postcard3-back.png" : "./img/postcard3.png";
 });
 
-const img4 = document.getElementById("flipper4");
-img4.addEventListener("click", function () {
-    let currentSrc = img4.getAttribute("src");
-    img4.src = currentSrc.includes("postcard4.png") ? "./img/postcard4-back.png" : "./img/postcard4.png";
-});
-
 const img5 = document.getElementById("flipper5");
 img5.addEventListener("click", function () {
     let currentSrc = img5.getAttribute("src");
